@@ -99,5 +99,5 @@ document.addEventListener("DOMContentLoaded", () => { homee(); });
 
 //! log out
 function logOut() {
-    localStorage.removeItem('user')
+    localStorage.removeItem("firstElement")
 }
