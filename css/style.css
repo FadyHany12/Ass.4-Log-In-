@@ -1,0 +1,43 @@
+a {
+    text-decoration: none;
+}
+
+.box a:hover {
+    text-decoration: underline;
+}
+
+body {
+    background-color: #24353F;
+    font-family: 'Titillium Web', sans-serif;
+
+}
+
+.box {
+
+    width: 55vw;
+    background-color: #24353F;
+    box-shadow: -5px 2px 54px -9px rgba(0, 0, 0, 1);
+}
+
+h1 {
+    color: #17A2B8;
+}
+
+.box input.form-control {
+    color: white;
+    background-color: #24353F;
+}
+
+.box input::placeholder {
+    color: #B6B6B6;
+    ;
+}
+
+
+.welcome {
+    height: 75vh;
+}
+
+.box-group {
+    box-shadow: -5px 2px 54px -9px black;
+}
